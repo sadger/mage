@@ -1,5 +1,3 @@
 language: java
-before_install:
- - export MAVEN_OPTS="-Xms512M -Xmx2048M"
 install:
 - mvn install -DskipTests=true
