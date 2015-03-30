@@ -7,4 +7,4 @@ before_install:
  - "echo $MAVEN_OPTS"
  - export MAVEN_OPTS="-Xms512M -Xmx2048M"
 install:
-- mvn install -DskipTests=true
+- travis_wait mvn install -DskipTests=true
