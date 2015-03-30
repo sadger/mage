@@ -1,3 +1,5 @@
+![Build Status](https://travis-ci.org/sadger/mage.svg?branch=travis-test)
+
 # XMage - Magic, Another Game Engine
 
 XMage allows you to play magic against one or more online players or computer opponents. It includes full rules enforcement for over **9,500** unique cards (over 17.800 counting all cards from different editions). Starting with Eventide, all regular sets have nearly all the cards implemented ([see here in detail which cards are implemented](http://ct-magefree.rhcloud.com/stats)).
